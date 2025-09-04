@@ -86,7 +86,4 @@ while(flag==True):
                 sent_tokens.remove(user_response)
     else:
         flag=False
-        print("ROBO: Bye! take care..")    
-        
-        
-
+        print("ROBO: Bye! take care..")
